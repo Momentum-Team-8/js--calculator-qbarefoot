@@ -34,7 +34,8 @@ justify-content: center;
 
 .seven {
     background-color: green;
-}
+    width: 413px; 
+}   
 
 .eight {
     background-color: green;
@@ -98,5 +99,5 @@ justify-content: center;
 
 .result {
     background-color: green;
-    width: 410px; 
 }
+
